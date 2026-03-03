@@ -1,3 +1,4 @@
+[![wakatime](https://wakatime.com/badge/user/9bfff5a3-4c3e-4731-974b-9d203e208477/project/997a0932-3b13-437a-9939-713498eb614f.svg)](https://wakatime.com/badge/user/9bfff5a3-4c3e-4731-974b-9d203e208477/project/997a0932-3b13-437a-9939-713498eb614f)
 # EagleOS
 
 EagleOS Based on the Programming Language Python! EagleOS Was Created for one purpose and that purpose was to act like a Real OS!
